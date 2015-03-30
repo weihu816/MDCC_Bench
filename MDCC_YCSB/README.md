@@ -11,7 +11,7 @@ The steps to run MDCC Prototype on Node1, Node2 and Node3 are as follows.
 For each node,
 
 	$ cd ~
-	$ git clone https://github.com/weihu816/YCSB
+	$ git clone https://github.com/weihu816/YCSB_Bench
 
 2. Modify configuration
 ---
